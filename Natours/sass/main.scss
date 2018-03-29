@@ -17,10 +17,16 @@
 @import "components/story";
 //Imports from Layout
 @import "layout/header";
+@import "layout/footer";
 @import "layout/grid";
+@import "layout/navigation";
 //Imports from Pages
 @import "pages/home";
 
+
+
+//Note  .....comand to run  in sass fonder open  terminal and enter command
+//  npm run compile:sass
 
 
 
